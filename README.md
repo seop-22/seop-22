@@ -1,19 +1,14 @@
 ## Hi there 👋
 
-### 🛠 Tech Stack
+### 🛠 Currently Learning & Using
 
 <img src="https://img.shields.io/badge/Verilog-FAD000?style=for-the-badge&logo=verilog&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/SystemVerilog-4B0082?style=for-the-badge&logo=micro-dot-info&logoColor=white">
 
-<img src="https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Learning-Java-orange?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Studying-Information%20Processing-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/RTL%20Design-000000?style=for-the-badge&logo=circuit-board&logoColor=white">
-<img src="https://img.shields.io/badge/FPGA-00979D?style=for-the-badge&logo=intel&logoColor=white">
-
-
+<img src="https://img.shields.io/badge/Interest-FPGA%20Design-00979D?style=for-the-badge&logo=intel&logoColor=white">
 
 
 <!--
